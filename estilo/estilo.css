@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E6E6E6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+}
+#container{
+    width: 900px;
+    margin: 0 auto;
+}
+#superior{
+    background-color: #FFBF00;
+    height: 150px;
+}
+#logo{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 25px;
+    color:#353131;
+    font-size: 20px;
+}
+#logo spam{
+    color: #fff;
+}
+#menu{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+#menu a{
+    text-decoration: none;
+}
+#menu a:link, a:visited{
+    color: #fff;
+    padding: 8px 12px;
+}
+#menu a:hover{
+    color: #f7b600;
+    background-color: #fff;
+}
+img{
+    width: 590px;
+}
+#conteudo{
+    width: 630px;
+    margin-top: 15px;
+    float: left;  
+}
+#rodape{
+    text-align: center;
+    background-color: #b4b4b4;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.lateral{
+    width: 250px;
+    background-color:#FAFAFA;
+    float: right;
+    margin-top: 15px;
+    padding: 5px;
+}
+.conteudo{
+    background-color:#FAFAFA;
+    margin-bottom: 20px;
+    padding-bottom: 25px; 
+    padding-top: 25px;
+    
+}
+.conteudo img{
+    margin-left: 20px;
+    padding-top: 15px;
+}
+.conteudo h3,span,p,a{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.conteudo a{
+    color: #FFBF00;
+}
+.conteudo h3{
+    color: #FFBF00;
+    font-size: 25px;
+}
+.conteudo span{
+    font-size: 12px;
+}
+.lateral-conteudo h3{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    padding: 5px;
+    background-color:rgb(185, 183, 183);
+}
+.lateral-conteudo p{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.lateral-conteudo a{
+    margin-top: 0;
+    color: #FFBF00;
+    font-size: 14px;
+}
+.lateral-conteudo hr{
+    margin: 0 5px;
+}
+
